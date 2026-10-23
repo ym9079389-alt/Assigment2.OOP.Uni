@@ -10,7 +10,7 @@ int main()
 {
 	Rectangle r;
 	r.inputData();
-	cout << "Area: " << r.DisplayArea() << endl;
+	cout << "Area: " << r.DisplayArea() << endl; 
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
